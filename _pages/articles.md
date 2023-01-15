@@ -7,196 +7,39 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=tfCUOvkAAAAJ&hl=en) profile. 
 
-## Tips and hints
+## Peer-Reviewed Journal Article
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+[3]	**Jiao, C.**, Li, K. & Fang, Z. (2022). Data sharing practices across knowledge domains: A dynamic examination of data availability statements in PLOS ONE publications. _Journal of Information Science_, 016555152211018. [https://doi.org/10.1177/01655515221101830](https://doi.org/10.1177/01655515221101830)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+[2]	Li, K. & **Jiao, C.** (2022). The data paper as a sociolinguistic epistemic object: A content analysis on the rhetorical moves used in data paper abstracts. _Journal of the Association for Information Science and Technology_, _73_(6), 834–846. [https://doi.org/10.1002/asi.24585](https://doi.org/10.1002/asi.24585)
 
-## Markdown guide
+[1]	Li, K., **Jiao, C.**, Sugimoto, C. & Lariviere, V. (2021). Versioning boundary objects: the citation profile of the Diagnostic and Statistical Manual for Mental Disorders (DSM). _Journal of Documentation_, _78_(4), 871–889. [https://doi.org/10.1108/JD-06-2021-0117](https://doi.org/10.1108/JD-06-2021-0117)
 
-### Header three
+## Peer-Reviewed Conference Paper
 
-#### Header four
+[3]	Li, K. & **Jiao, C.** (2021). How are data paper abstracts constructed? Preliminary analysis of rhetorical moves in data paper abstracts from Scientific Data and Data in Brief. _Proceedings of 18th International Conference on Scientometrics & Informetrics_. [https://issi2021.org/proceedings/](https://issi2021.org/proceedings/)
 
-##### Header five
+[2]	**Jiao, C.** & Darch, P. (2021). What data should be published as data papers? An analysis of review reports. _Paper accepted at the International Digital Curation Conference 2021_.
 
-###### Header six
+[1]	**Jiao, C.** & Darch, P. (2020). The role of the data paper in scholarly communication. _Proceedings of the Association for Information Science and Technology_. _57_:e316. [https://doi.org/10.1002/pra2.316](https://doi.org/10.1002/pra2.316)
 
-## Blockquotes
+## Peer-Reviewed Conference Poster
 
-Single line blockquote:
+[3]	Chen, P., Li, K. & **Jiao, C.** (2022). A preliminary analysis of geography of collaboration in data papers by S&T Capacity Index. _Proceedings of the Association for Information Science and Technology_, _59_:642-644. [https://doi.org/10.1002/pra2.676](https://doi.org/10.1002/pra2.676)
 
-> Quotes are cool.
+[2]	**Jiao, C.** (2022). Inaccessible data sharing: Link rot in the Data Availability Statement. _Poster presented at the 44th Annual Meeting of Society for Scholarly Publishing 2022_, Chicago, IL, June 1-3, 2022.
 
-## Tables
+[1]	Li, K., Lu, C. & **Jiao, C.** (2021). A Survey of Exclusively Data Journals and How They Are Indexed by Scientific Databases. _Proceedings of the Association for Information Science and Technology_, _58_:771-773. [https://doi.org/10.1002/pra2.557](https://doi.org/10.1002/pra2.557)
 
-### Table 1
+## Peer-Reviewed Workshop Presentation
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+[2]	Jiang, T. & **Jiao, C.** (2022). How is data publishing work credited in group research? _Presentation at Metrics 2022: ASIS&T SIGMET Workshop_.
 
-### Table 2
+[1]	**Jiao, C.** & Li, K. (2021). How are data repositories used to share research data? Preliminary evidence from the Public Library of Science (PLoS) data availability statements. _Presentation at Metrics 2021: ASIS&T SIGMET Workshop_.
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+## Invited Talk and Presentation
 
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+[1]	**Jiao, C.**, Rauch, C., Uriri, A., Whitmire, A., Wiley, C., Williams, J., Frick, R. & Mitchell, E. LEADING: Data science innovation across our national digital infrastructure. _Invited session at Coalition for Networked Information Spring 2022 Membership Meeting_, San Diego, CA, March 28-29, 2022.
