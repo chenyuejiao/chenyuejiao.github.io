@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : &twitter "ChenyueJ"
 facebook:
   username               : 
   app_id                 :
@@ -209,16 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      read_time: false
-      author_profile: true
-      share: false
-      comments: false
   # _articles
   - scope:
       path: ""
@@ -228,23 +218,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _expressions
-  - scope:
-      path: ""
-      type: expressions
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
       
 # Sass/SCSS
 sass:
