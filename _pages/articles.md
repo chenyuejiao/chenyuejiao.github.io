@@ -36,7 +36,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Peer-Reviewed Workshop Presentation
 
-[2]	Jiang, T. & **Jiao, C.** (2022). How is data publishing work credited in group research? _Presentation at Metrics 2022: ASIS&T SIGMET Workshop_.
+[2]	Jiang, T. & **Jiao, C.** (2022). How is data publishing work credited in group research? _Presentation at Metrics 2022: ASIS&T SIGMET Workshop_. Download it [[here]](/paper/sigmet22.pdf)
 
 [1]	**Jiao, C.** & Li, K. (2021). How are data repositories used to share research data? Preliminary evidence from the Public Library of Science (PLoS) data availability statements. _Presentation at Metrics 2021: ASIS&T SIGMET Workshop_. Download it [[here]](/paper/metrics21.pdf)
 
