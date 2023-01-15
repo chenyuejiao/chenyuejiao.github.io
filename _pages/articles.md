@@ -12,7 +12,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Peer-Reviewed Journal Article
 
-[3]	**Jiao, C.**, Li, K. & Fang, Z. (2022). Data sharing practices across knowledge domains: A dynamic examination of data availability statements in PLOS ONE publications. _Journal of Information Science_, 016555152211018. [https://doi.org/10.1177/01655515221101830](https://doi.org/10.1177/01655515221101830)
+[3]	**Jiao, C.**, Li, K. & Fang, Z. (2022). Data sharing practices across knowledge domains: A dynamic examination of data availability statements in PLOS ONE publications. _Journal of Information Science_, 016555152211018. [https://doi.org/10.1177/01655515221101830](https://doi.org/10.1177/01655515221101830)[[detail]](/Paper/JIS.pdf)
 
 [2]	Li, K. & **Jiao, C.** (2022). The data paper as a sociolinguistic epistemic object: A content analysis on the rhetorical moves used in data paper abstracts. _Journal of the Association for Information Science and Technology_, _73_(6), 834–846. [https://doi.org/10.1002/asi.24585](https://doi.org/10.1002/asi.24585)
 
@@ -42,4 +42,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Invited Talk and Presentation
 
-[1]	**Jiao, C.**, Rauch, C., Uriri, A., Whitmire, A., Wiley, C., Williams, J., Frick, R. & Mitchell, E. LEADING: Data science innovation across our national digital infrastructure. _Invited session at Coalition for Networked Information Spring 2022 Membership Meeting_, San Diego, CA, March 28-29, 2022.
+[1]	**Jiao, C.**, Rauch, C., Uriri, A., Whitmire, A., Wiley, C., Williams, J., Frick, R. & Mitchell, E. LEADING: Data science innovation across our national digital infrastructure. _Invited session at Coalition for Networked Information Spring 2022 Membership Meeting_, San Diego, CA, March 28-29, 2022. [[video]](https://youtu.be/w1LkRdnMYm0)
