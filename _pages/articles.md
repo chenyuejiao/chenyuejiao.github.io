@@ -42,4 +42,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Invited Talk and Presentation
 
-[1]	**Jiao, C.**, Rauch, C., Uriri, A., Whitmire, A., Wiley, C., Williams, J., Frick, R. & Mitchell, E. LEADING: Data science innovation across our national digital infrastructure. _Invited session at Coalition for Networked Information Spring 2022 Membership Meeting_, San Diego, CA, March 28-29, 2022.
+[1]	**Jiao, C.**, Rauch, C., Uriri, A., Whitmire, A., Wiley, C., Williams, J., Frick, R. & Mitchell, E. LEADING: Data science innovation across our national digital infrastructure. _Invited session at Coalition for Networked Information Spring 2022 Membership Meeting_, San Diego, CA, March 28-29, 2022. [[video]](https://youtu.be/w1LkRdnMYm0)
